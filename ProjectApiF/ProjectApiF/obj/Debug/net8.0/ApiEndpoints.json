@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ProjectApiF.Controllers.FuncionarioController",
+    "Method": "Get",
+    "RelativePath": "api/Funcionario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
